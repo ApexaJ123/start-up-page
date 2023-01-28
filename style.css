@@ -12,10 +12,12 @@ h1{
    color: #e2dbdb; 
 }
 
-hr{
-    border-color: #f05f44;
-    border-width: 3px;
+hr {
+    margin: 20px auto;
+    color: #F05F44;
+    border: 3px solid #F05F44;
     max-width: 65px;
+    opacity: 1;  
 }
 
 .buffer{
